@@ -19,3 +19,12 @@ hide it if it was visible.
 - Name some of your OBS sources single-character names, either letters or digits. Make sure the letters are lowercase.
 
 - Run this program in a terminal or console and give it focus. Pressing the keys will show and hide the elements.
+
+### Why not just use keyboard shortcuts in OBS?
+
+- Most of the time that will be easier. There are a couple of use cases where this might be preferable:
+
+  - You don't want to keep OBS in focus the whole time for some reason
+  - OBS is running on a different computer
+  - You have a lot of sources which you need to rearrange and reorder on the fly
+  - You don't want to pollute your obs settings with super shorthand keyboard shortcus.
